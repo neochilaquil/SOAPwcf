@@ -1,0 +1,15 @@
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Pacagroup.Comercial.Creditos.Fachada.dll
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Pacagroup.Comercial.Creditos.Fachada.pdb
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.dll
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Dapper.dll
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Pacagroup.Comercial.Creditos.SqlRepositorio.pdb
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\bin\Debug\Dapper.xml
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Debug\Pacagroup.Comercial.Creditos.Fachada.csprojAssemblyReference.cache
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Debug\Pacagroup.Comercial.Creditos.Fachada.csproj.CoreCompileInputs.cache
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Debug\Pacagroup.Comercial.Creditos.Fachada.csproj.CopyComplete
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Debug\Pacagroup.Comercial.Creditos.Fachada.dll
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Fachada\obj\Debug\Pacagroup.Comercial.Creditos.Fachada.pdb

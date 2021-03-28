@@ -1,0 +1,9 @@
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Release\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\bin\Release\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.csprojAssemblyReference.cache
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.csproj.CoreCompileInputs.cache
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.csproj.CopyComplete
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.dll
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.ContratoRepositorio\obj\Release\Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb

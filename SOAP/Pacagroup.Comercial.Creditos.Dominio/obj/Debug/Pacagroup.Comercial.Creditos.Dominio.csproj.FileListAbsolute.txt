@@ -1,0 +1,6 @@
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Dominio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Dominio\bin\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Dominio\obj\Debug\Pacagroup.Comercial.Creditos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Dominio\obj\Debug\Pacagroup.Comercial.Creditos.Dominio.dll
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Dominio\obj\Debug\Pacagroup.Comercial.Creditos.Dominio.pdb
+C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.Dominio\obj\Debug\Pacagroup.Comercial.Creditos.Dominio.csprojAssemblyReference.cache

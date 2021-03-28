@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\release</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Dapper.dll">
+      <publishTime>11/17/2020 09:58:48</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.Contrato.dll">
+      <publishTime>01/15/2021 12:50:12</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.Contrato.pdb">
+      <publishTime>01/15/2021 12:50:12</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.ContratoRepositorio.dll">
+      <publishTime>01/15/2021 12:50:12</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.ContratoRepositorio.pdb">
+      <publishTime>01/15/2021 12:50:12</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.Dominio.dll">
+      <publishTime>01/15/2021 12:50:11</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.Dominio.pdb">
+      <publishTime>01/15/2021 12:50:11</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.Fachada.dll">
+      <publishTime>01/15/2021 12:50:13</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.Fachada.pdb">
+      <publishTime>01/15/2021 12:50:13</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.Implementacion.dll">
+      <publishTime>01/15/2021 12:50:13</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.Implementacion.pdb">
+      <publishTime>01/15/2021 12:50:13</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.SqlRepositorio.dll">
+      <publishTime>01/15/2021 12:50:13</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.SqlRepositorio.pdb">
+      <publishTime>01/15/2021 12:50:13</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.WcfService.dll">
+      <publishTime>01/15/2021 12:50:14</publishTime>
+    </File>
+    <File Include="bin/Pacagroup.Comercial.Creditos.WcfService.pdb">
+      <publishTime>01/15/2021 12:50:14</publishTime>
+    </File>
+    <File Include="ClienteService.svc">
+      <publishTime>01/13/2021 14:18:50</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>01/15/2021 12:50:15</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
