@@ -1,0 +1,13 @@
+﻿Instalando ensamblado 'C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.InstallLog
+   assemblypath = C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe
+Instalando el servicio WCFServicioCliente...
+El servicio WCFServicioCliente se ha instalado correctamente.
+Creando el origen de EventLog WCFServicioCliente en el registro Application...
+Confirmando ensamblado 'C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.InstallLog
+   assemblypath = C:\Users\EON\Documents\CursoUdemmyWCF\SOAP\Pacagroup.Comercial.Creditos.InstaladorWinService\bin\Debug\Pacagroup.Comercial.Creditos.InstaladorWinService.exe

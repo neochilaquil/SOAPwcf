@@ -24,7 +24,10 @@ namespace Pacagroup.Comercial.Creditos.Implementacion
 
 
             }
-            catch(Exception ex) { throw new FaultException<Error>(new Error() {CodigoError="1001", Descripcion= "Excepción administrada por el servicio", Mensaje=ex.Message }); }
+            catch(Exception ex)
+            {
+                throw new FaultException<Error>(new Error() {CodigoError="1001", Descripcion= "Excepción administrada por el servicio", Mensaje=ex.Message });
+            }
            
        }
        
